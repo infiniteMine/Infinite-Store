@@ -1,5 +1,5 @@
 import React from "react";
-import styled, { keyframes } from 'styled-components';
+import styled from 'styled-components';
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import { Snackbar } from "@mui/material";
@@ -201,10 +201,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_w7dzhh5",
-        "template_b0q19al",
+        "service_tl3r8xg",
+        "template_flwue9j",
         form.current,
-        "LXKUbff1C0vzu7wIX"
+        "ZxwXtHvKuLPsBcTxL"
       )
       .then(
         (result) => {

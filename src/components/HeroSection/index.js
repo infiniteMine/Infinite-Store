@@ -52,20 +52,10 @@ const HeroSection = () => {
                 </Span>
               </TextLoop>
               <SubTitle>{Bio.description}</SubTitle>
-              <button class="btn-hero">
-                <a style={{ color: "#fff", textDecoration: "none" }} href="https://drive.google.com/file/d/1WhryeEsULP-3q6lZXpleW26c0jZbB4tz/view" target="blank">Check CV</a> </button>
-              {/* <ResumeButton href={Bio.resume} target="display">
-              Check Resume
-            </ResumeButton> */}
+             
             </HeroLeftContainer>
 
-            <HeroRightContainer id="Right">
-              <motion.div {...headContentAnimation}>
-                <Tilt>
-                  <Img src="https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/ivcxkvbdqmplvap2fwi6" alt="hero-image" />
-                </Tilt>
-              </motion.div>
-            </HeroRightContainer>
+            
           </HeroInnerContainer>
         </motion.div>
       </HeroContainer>

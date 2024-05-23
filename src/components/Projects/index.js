@@ -63,22 +63,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           )}
           <Divider />
-          {toggle === "arduino" ? (
-            <ToggleButton
-              active
-              value="arduino"
-              onClick={() => setToggle("arduino")}
-            >
-              ARDUINO
-            </ToggleButton>
-          ) : (
-            <ToggleButton
-              value="arduino"
-              onClick={() => setToggle("arduino")}
-            >
-              ARDUINO
-            </ToggleButton>
-          )}
+         
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&
