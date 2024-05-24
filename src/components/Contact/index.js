@@ -201,10 +201,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_36tl8jt",
-        "template_6hiffnw",
+        "service_tl3r8xg",
+        "template_flwue9j",
         form.current,
-        "anhGTq1P4dN8qUQ0G"
+        "ZxwXtHvKuLPsBcTxL"
       )
       .then(
         (result) => {
