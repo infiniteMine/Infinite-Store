@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Edward Han",
+  name: "Trevor Gillaspia",
   roles: [
     "Full Stack Developer",
     "Robotics Enthusiast",
@@ -227,7 +227,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMHy4TEl4w7ZVVasPBMzFFDl-AYnLjB-WDAE8Z06KyQ&s",
     role: "Senior Software Engineer	",
     company: "SkillStorm",
-    date: "May 2020 – May 2024",
+    date: "Apr 2020 – May 2024",
     desc: "Participated in the Several big projects, showcasing expertise in robotics, engineering, and problem-solving within a competitive space exploration context.",
     skills: [
       "Rover Design",
@@ -245,7 +245,7 @@ export const experiences = [
     img: "https://s3.amazonaws.com/top-local-agencies/profiles/logos/000/044/622/original/WLD_logo_copy.png",
     role: "Software Engineer",
     company: "Web Loft Designs",
-    date: "Jun 2016 – Apr 2020",
+    date: "Jun 2016 – Feb 2020",
     desc: "Had Experience of building responsive web layouts and designs for website including building and deployment.",
     skills: [
       "C/C++",
@@ -281,8 +281,8 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://tse2.mm.bing.net/th?id=OIP.q63wTkm9UFAClXFQscTdtQHaHa&pid=Api&P=0&h=220",
-    role: "Texas Tech University",
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Texas_Southern_University_seal.svg/1200px-Texas_Southern_University_seal.svg.png",
+    role: "Texas Southern University",
     date: "May 2015",
     desc: "Bachelor of Science, Computer Science	",
   },

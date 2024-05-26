@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Edward Han</Logo>
+        <Logo>Trevor Gillaspia</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Copyright-All Rights Reserved to Edward Han.
+          &copy; 2023 Copyright-All Rights Reserved to Trevor Gillaspia.
         </Copyright>
 
       </FooterWrapper>
