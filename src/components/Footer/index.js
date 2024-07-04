@@ -88,13 +88,13 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Trevor Gillaspia</Logo>
+        <Logo>INFINITE-MAGIC</Logo>
         <Nav>
-          <NavLink href="#about">About</NavLink>
-          <NavLink href="#skills">Skills</NavLink>
-          <NavLink href="#experience">Experience</NavLink>
-          <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#education">Education</NavLink>
+          <NavLink href="#about">ABOUT ME</NavLink>
+          <NavLink href="#skills">SKILLS</NavLink>
+          {/* <NavLink href="#experience">Experience</NavLink> */}
+          <NavLink href="#projects">PROJECTS</NavLink>
+          {/* <NavLink href="#education">Education</NavLink> */}
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Copyright-All Rights Reserved to Trevor Gillaspia.
+          &copy; 2023 Copyright-All Rights Reserved to INFINITE-MAGIC.
         </Copyright>
 
       </FooterWrapper>

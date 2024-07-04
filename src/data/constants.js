@@ -1,12 +1,12 @@
 export const Bio = {
-  name: "Trevor Gillaspia",
+  name: "INFINITE-MAGIC",
   roles: [
     "Full Stack Developer",
     "Programmer",
     "Pixel Perfectionest Designer"
   ],
   description:
-    "Pursuing a B.Tech in Computer Science and Engineering at Texas Tech, I'm on an odyssey of continuous learning. I'm sculpting a multidimensional skill set, weaving my experiences into innovation and growth.",
+    "Pursuing rich Tech in Computer Science and Engineering, I'm on an odyssey of continuous learning. I'm sculpting a multidimensional skill set, weaving my experiences into innovation and growth.",
   github: "https://github.com/infiniteMine",
   linkedin: "https://www.linkedin.com/in/infinite-23053724a/",
   twitter: "https://twitter.com/_infinite",
@@ -19,36 +19,6 @@ export const skills = [
     title: "Frontend",
     skills: [
       {
-        name: "React Js",
-        image:
-          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-      },
-      {
-        name: "Next Js",
-        image:
-          "https://cdn.worldvectorlogo.com/logos/next-js.svg",
-      },
-      {
-        name: "Nuxt Js",
-        image:
-          "https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png",
-      },
-      {
-        name: "Vue Js",
-        image:
-          "https://logos-download.com/wp-content/uploads/2022/12/Vue.js_Logo.png"
-      },
-      {
-        name: "Svelte Js",
-        image:
-          "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254421/svelte-icon-icon-md.png"
-      },
-      {
-        name: "Angular",
-        image:
-          "https://www.pngrepo.com/png/353396/512/angular-icon.png"
-      },
-      {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
@@ -56,11 +26,6 @@ export const skills = [
         name: "CSS",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
-      },
-      {
-        name: "JavaScript",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
         name: "Bootstrap",
@@ -72,6 +37,44 @@ export const skills = [
         image:
           "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-md.png",
       },
+      {
+        name: "JavaScript",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      },
+      {
+        
+        name: "React Js",
+        image:
+          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+      },
+      {
+        name: "Next Js",
+        image:
+          "https://cdn.worldvectorlogo.com/logos/next-js.svg",
+        },
+        {
+          name: "Vue Js",
+          image:
+            "https://logos-download.com/wp-content/uploads/2022/12/Vue.js_Logo.png"
+        },
+      {
+        name: "Nuxt Js",
+        image:
+          "https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png",
+      },
+      {
+        name: "Angular",
+        image:
+          "https://www.pngrepo.com/png/353396/512/angular-icon.png"
+      },
+      
+      {
+        name: "Svelte Js",
+        image:
+          "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254421/svelte-icon-icon-md.png"
+      },
+      
     ],
   },
   {
@@ -220,73 +223,73 @@ export const skills = [
   },
 ];
 
-export const experiences = [
-  {
-    id: 5,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMHy4TEl4w7ZVVasPBMzFFDl-AYnLjB-WDAE8Z06KyQ&s",
-    role: "Senior Software Engineer	",
-    company: "SkillStorm",
-    date: "Apr 2020 – May 2024",
-    desc: "Participated in the Several big projects, showcasing expertise in AI part, engineering, and problem-solving within a competitive space exploration context.",
-    skills: [
-      "Rover Design",
-      "Power Electronics",
-      "ROS",
-      "Simulation",
-      "Computer Vision",
-      "Path Planning",
-      "Chassis Design",
-      "Object Detection",
-    ],
-  },
-  {
-    id: 0,
-    img: "https://s3.amazonaws.com/top-local-agencies/profiles/logos/000/044/622/original/WLD_logo_copy.png",
-    role: "Software Engineer",
-    company: "Web Loft Designs",
-    date: "Jun 2016 – Feb 2020",
-    desc: "Had Experience of building responsive web layouts and designs for website including building and deployment.",
-    skills: [
-      "C/C++",
-      "Go", 
-      "Javascript",
-      "Typescript",
-      "PHP",
-      "HTML5",
-      "React",
-      "Angular",
-      "Vue",
-      "Svelte",
-      "PostgreSQL", "MongoDB", "Oracle DB", "SQLite" , "Redis ",
-    ],
-  },
-  {
-    id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxNf95WCRA9DOeBeaclnsjO49_mRXzLN-OIGtfaPg6A31_26eHkHt-TFy31lITGduTyok&usqp=CAU",
-    role: "Junior Technical Associate",
-    company: "Mobisoft, Infotech",
-    date: "Jun 2015 - May 2016",
-    desc: "Working on the frontend of the web application using ReactJS, HTML,Java=script, and CSS.",
-    skills: [
-      "ReactJS",
-      "NextJS",
-      "HTML",
-      "CSS",
-      "SASS",
-      "JavaScript",
-      "NodeJS",
-      "MongoDB",
-    ],
-  },
-  {
-    id: 2,
-    img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Texas_Southern_University_seal.svg/1200px-Texas_Southern_University_seal.svg.png",
-    role: "Texas Southern University",
-    date: "May 2015",
-    desc: "Bachelor of Science, Computer Science	",
-  },
+// export const experiences = [
+//   {
+//     id: 5,
+//     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMHy4TEl4w7ZVVasPBMzFFDl-AYnLjB-WDAE8Z06KyQ&s",
+//     role: "Senior Software Engineer	",
+//     company: "SkillStorm",
+//     date: "Apr 2020 – May 2024",
+//     desc: "Participated in the Several big projects, showcasing expertise in AI part, engineering, and problem-solving within a competitive space exploration context.",
+//     skills: [
+//       "Rover Design",
+//       "Power Electronics",
+//       "ROS",
+//       "Simulation",
+//       "Computer Vision",
+//       "Path Planning",
+//       "Chassis Design",
+//       "Object Detection",
+//     ],
+//   },
+//   {
+//     id: 0,
+//     img: "https://s3.amazonaws.com/top-local-agencies/profiles/logos/000/044/622/original/WLD_logo_copy.png",
+//     role: "Software Engineer",
+//     company: "Web Loft Designs",
+//     date: "Jun 2016 – Feb 2020",
+//     desc: "Had Experience of building responsive web layouts and designs for website including building and deployment.",
+//     skills: [
+//       "C/C++",
+//       "Go", 
+//       "Javascript",
+//       "Typescript",
+//       "PHP",
+//       "HTML5",
+//       "React",
+//       "Angular",
+//       "Vue",
+//       "Svelte",
+//       "PostgreSQL", "MongoDB", "Oracle DB", "SQLite" , "Redis ",
+//     ],
+//   },
+//   {
+//     id: 0,
+//     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxNf95WCRA9DOeBeaclnsjO49_mRXzLN-OIGtfaPg6A31_26eHkHt-TFy31lITGduTyok&usqp=CAU",
+//     role: "Junior Technical Associate",
+//     company: "Mobisoft, Infotech",
+//     date: "Jun 2015 - May 2016",
+//     desc: "Working on the frontend of the web application using ReactJS, HTML,Java=script, and CSS.",
+//     skills: [
+//       "ReactJS",
+//       "NextJS",
+//       "HTML",
+//       "CSS",
+//       "SASS",
+//       "JavaScript",
+//       "NodeJS",
+//       "MongoDB",
+//     ],
+//   },
+//   {
+//     id: 2,
+//     img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Texas_Southern_University_seal.svg/1200px-Texas_Southern_University_seal.svg.png",
+//     role: "Texas Southern University",
+//     date: "May 2015",
+//     desc: "Bachelor of Science, Computer Science	",
+//   },
 
-];
+// ];
 
 
 export const projects = [
@@ -295,110 +298,86 @@ export const projects = [
   
   {
     id: 1,
-    title: "Incandescence-2024 Website",
+    title: "VAIP",
     date: "Feb 2024",
     description:
-      "Collaborated in creating a vibrant event website for Incandescence, showcasing our college's spirit through interactive design, engaging content, and seamless functionality.",
+      "Voice AI for developers",
     image:
-      "https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/WhatsApp_Image_2024-03-15_at_12.14.58_5441dd4c_z2hykr",
+      "https://img.freepik.com/premium-photo/investigate-impact-voice-recognition-per-generative-ai_1198295-10269.jpg?size=626&ext=jpg&ga=GA1.1.66234550.1718319976&semt=ais_user",
     tags: [
-      "NextJS",
-      "SASS",
-      "FramerMotion",
-      "NodeJS",
-      "MongoDB",
+      
     ],
     category: "web app",
-    github: "https://github.com/Ecell-NITS/Incand24-frontend.git",
-    webapp: "https://www.incand.co.in/",
-  },
-  {
-    id: 7,
-    title: "Tecnoesis-2023 Website",
-    date: "Jan 2023",
-    description:
-      "Collaborated on vibrant Tecnoesis event website, ensuring interactive design, engaging content, and seamless functionality in Technical Fest, showcasing teamwork and college spirit.",
-    image:
-      "https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/rxnglcnzxvz29tmtrhtm",
-    tags: [
-      "ReactJS",
-      "ModuleCSS",
-      "Animation",
-      "NodeJS",
-      "Firebase",
-    ],
-    category: "web app",
-    github: "https://github.com/gdsc-nits-org/tecnoesis-web.git",
-    webapp: "https://www.tecnoesis.co.in/",
-  },
-  {
-    id: 7,
-    title: "Oikyotaan-2022 Website",
-    date: "April 2022",
-    description:
-      "Contributed to the Oikyotaan 2024 cultural event website by designing interactive elements, creating engaging content, ensuring seamless functionality, and enhancing the overall user experience. My goal was to showcase the vibrancy and spirit of our event and college.",
-    image:
-      "https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/li4hmetwysdlhq9ziazn",
-    tags: [
-      "ReactJS",
-      "SASS",
-      "Animation",
-    ],
-    category: "web app",
-    github: "https://github.com/gdsc-nits-org/oikyotaan-2024.git",
-    webapp: "https://oikyotaan.in/",
+    webapp: "https://vapi.ai/",
   },
   {
     id: 9,
     title: "Buisness Website",
-    date: "Jun 2021",
+    date: "Jun 2023",
     description:
-      "To establish an online presence, communicate our services, and engage customers. Key features include a responsive design, services showcase, contact information, blog/news section, and social media integration.",
+      "All of your Business starts Here",
     image:
       "https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/lryt7o1tpvmmw2ojpwan",
     tags: [
-      "HTML",
-      "CSS",
-      "Javascript",
+     
     ],
     category: "web app",
-    github: "https://github.com/Edwardecenits/Buisness.git  ",
     webapp: "https://Edwardecenits.github.io/Buisness/",
   },
   {
-    id: 1,
-    title: "Y20-Event Website",
-    date: "Aug 2020",
+    id: 7,
+    title: "Naturist",
+    date: "Jan 2023",
     description:
-      "Develop the Y20 Event Website to showcase our event, promote registration, and provide attendees with essential information. The site will feature event details, a registration portal, speaker profiles, an agenda, and a contact page.",
+      "Naturist locations all over the world in one app",
     image:
-      "https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/xcvtgg44afcvlt25zqxr",
+      "https://media.timeout.com/images/101515225/1024/576/image.webp",
     tags: [
-      "ReactJS",
-      "CSS",
-      "Javascript",
-      "Bootstrap",
+      
     ],
     category: "web app",
-    github: "https://github.com/Edwardecenits/y20-website-dev.git",
-    webapp: "https://y20-website-dev.vercel.app/",
+    webapp: "https://naturi.sm/",
+  },
+  {
+    id: 7,
+    title: "Best Boxing Fitness Studio",
+    date: "April 2022",
+    description:
+      "Best Boxing Fitness Studio Where every workout is a win",
+    image:
+      "https://t3.ftcdn.net/jpg/01/62/91/42/360_F_162914286_O4BwMXsYDASlf49pe69tbUwgT9O7LqNa.jpg",
+    tags: [
+      
+    ],
+    category: "web app",
+    webapp: "https://mayweather.fit/",
+  },
+  
+  {
+    id: 1,
+    title: "WEDDING BAND HIRE RED SODA",
+    date: "Aug 2020",
+    description:
+      "Boston wedding musicwith soul to CELEBRATE your love",
+    image:
+      "https://media.istockphoto.com/id/1192677264/photo/decorations-for-the-wedding-ceremony.jpg?s=612x612&w=0&k=20&c=Q1iy03Dw5VMOwjU1J-_voN5JyUr4DbpwLzpO_sQhnzg=",
+    tags: [
+    ],
+    category: "web app",
+    webapp: "https://redsoda.com/us/boston/",
   },
   {
     id: 2,
-    title: "News-App",
+    title: "carparts",
     date: "Oct 2019",
     description:
-      "Develop the Y20 Event Website to showcase our event, promote registration, and provide attendees with essential information. The site will feature event details, a registration portal, speaker profiles, an agenda, and a contact page.",
+      "Be the first to receive exclusive promotions, updates and product announcements.",
     image:
-      "https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/hu4x438zq3ci7i9qkqqs",
+      "https://cld.partsimg.com/image/upload/c_limit,w_640/e_sharpen/f_auto/q_auto,dpr_1/v1/carparts/campaigns/2024-bosch/bosch-cms-desktop",
     tags: [
-      "ReactJS",
-      "CSS",
-      "Javascript",
     ],
     category: "web app",
-    github: "https://github.com/Edwardecenits/News-app.git",
-    webapp: "https://news-app-eta-orcin.vercel.app/",
+    webapp: "https://www.carparts.com/",
   },
   
   
@@ -406,5 +385,5 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2015, text: "Started my Development journey" },
-  { year: 2020, text: "Shared my projects with the world" },
+  { year: 2016, text: "Shared my projects with the world" },
 ];

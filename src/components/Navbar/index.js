@@ -47,11 +47,11 @@ const Navbar = () => {
           />
         </MobileIcon>
         <NavItems>
-          <NavLink href="#about">About</NavLink>
-          <NavLink href="#skills">Skills</NavLink>
-          <NavLink href="#experience">Experience</NavLink>
-          <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#education">Education</NavLink>
+          <NavLink href="#about">ABOUT ME</NavLink>
+          <NavLink href="#skills">SKILLS</NavLink>
+          {/* <NavLink href="#experience">Experience</NavLink> */}
+          <NavLink href="#projects">PROJECTS</NavLink>
+          {/* <NavLink href="#education">Education</NavLink> */}
         </NavItems>
         
         
@@ -63,7 +63,7 @@ const Navbar = () => {
                 setIsOpen(!isOpen);
               }}
             >
-              About
+              About Me
             </MobileLink>
             <MobileLink
               href="#skills"
@@ -73,14 +73,14 @@ const Navbar = () => {
             >
               Skills
             </MobileLink>
-            <MobileLink
+            {/* <MobileLink
               href="#experience"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}
             >
               Experience
-            </MobileLink>
+            </MobileLink> */}
             <MobileLink
               href="#projects"
               onClick={() => {
@@ -89,14 +89,15 @@ const Navbar = () => {
             >
               Projects
             </MobileLink>
-            <MobileLink
+           
+            {/* <MobileLink
               href="#education"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}
             >
               Education
-            </MobileLink>
+            </MobileLink> */}
             
           </MobileMenu>
         )}
