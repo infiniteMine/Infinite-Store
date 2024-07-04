@@ -24,7 +24,7 @@ const Projects = ({ openModal, setOpenModal }) => {
           I have worked on a wide range of projects. Here are some of my
           projects.
         </Desc>
-        <ToggleButtonGroup>
+        {/* <ToggleButtonGroup>
           {toggle === "web app" ? (
             <ToggleButton
               active
@@ -39,7 +39,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           )}          
          
-        </ToggleButtonGroup>
+        </ToggleButtonGroup> */}
         <CardContainer>
           {toggle === "all" &&
             projects.map((project) => (
