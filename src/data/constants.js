@@ -314,8 +314,8 @@ export const projects = [
   },
   {
     id: 7,
-    title: "Tecnoesis-2024 Website",
-    date: "Jan 2024",
+    title: "Tecnoesis-2023 Website",
+    date: "Jan 2023",
     description:
       "Collaborated on vibrant Tecnoesis event website, ensuring interactive design, engaging content, and seamless functionality in Technical Fest, showcasing teamwork and college spirit.",
     image:
@@ -333,8 +333,8 @@ export const projects = [
   },
   {
     id: 7,
-    title: "Oikyotaan-2024 Website",
-    date: "April 2024",
+    title: "Oikyotaan-2022 Website",
+    date: "April 2022",
     description:
       "Contributed to the Oikyotaan 2024 cultural event website by designing interactive elements, creating engaging content, ensuring seamless functionality, and enhancing the overall user experience. My goal was to showcase the vibrancy and spirit of our event and college.",
     image:
@@ -351,7 +351,7 @@ export const projects = [
   {
     id: 9,
     title: "Buisness Website",
-    date: "Jun 2023",
+    date: "Jun 2021",
     description:
       "To establish an online presence, communicate our services, and engage customers. Key features include a responsive design, services showcase, contact information, blog/news section, and social media integration.",
     image:
@@ -368,7 +368,7 @@ export const projects = [
   {
     id: 1,
     title: "Y20-Event Website",
-    date: "Aug 2023",
+    date: "Aug 2020",
     description:
       "Develop the Y20 Event Website to showcase our event, promote registration, and provide attendees with essential information. The site will feature event details, a registration portal, speaker profiles, an agenda, and a contact page.",
     image:
@@ -386,7 +386,7 @@ export const projects = [
   {
     id: 2,
     title: "News-App",
-    date: "Oct 2023",
+    date: "Oct 2019",
     description:
       "Develop the Y20 Event Website to showcase our event, promote registration, and provide attendees with essential information. The site will feature event details, a registration portal, speaker profiles, an agenda, and a contact page.",
     image:
