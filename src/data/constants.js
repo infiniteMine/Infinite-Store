@@ -2,7 +2,6 @@ export const Bio = {
   name: "Trevor Gillaspia",
   roles: [
     "Full Stack Developer",
-    "Robotics Enthusiast",
     "Programmer",
     "Pixel Perfectionest Designer"
   ],
@@ -228,7 +227,7 @@ export const experiences = [
     role: "Senior Software Engineer	",
     company: "SkillStorm",
     date: "Apr 2020 – May 2024",
-    desc: "Participated in the Several big projects, showcasing expertise in robotics, engineering, and problem-solving within a competitive space exploration context.",
+    desc: "Participated in the Several big projects, showcasing expertise in AI part, engineering, and problem-solving within a competitive space exploration context.",
     skills: [
       "Rover Design",
       "Power Electronics",
@@ -293,24 +292,7 @@ export const experiences = [
 export const projects = [
   
 
-  {
-    id: 9,
-    title: "Space Rover",
-    date: "May 2024",
-    description:
-      "Designed and implemented a robust software and electronics system for an autonomous space rover, achieving precise navigation and task execution in challenging environment",
-    image:
-      "https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/lcqjp4o8wbd63i4ywcyw",
-    tags: [
-      "Power Electronics",
-      "Arduino",
-      "Autonomous Navigation",
-      "Jetson Nano",
-    ],
-    category: "robotics",
-    github: "",
-    webapp: "https://www.youtube.com/watch?si=3AEBZuTgmTvywpda&v=0hkg6x7ZlYw&feature=youtu.be",
-  },
+  
   {
     id: 1,
     title: "Incandescence-2024 Website",

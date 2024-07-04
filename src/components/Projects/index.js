@@ -25,44 +25,19 @@ const Projects = ({ openModal, setOpenModal }) => {
           projects.
         </Desc>
         <ToggleButtonGroup>
-          {toggle === "all" ? (
-            <ToggleButton active value="all" onClick={() => setToggle("all")}>
-              All
-            </ToggleButton>
-          ) : (
-            <ToggleButton value="all" onClick={() => setToggle("all")}>
-              All
-            </ToggleButton>
-          )}
-          <Divider />
           {toggle === "web app" ? (
             <ToggleButton
               active
               value="web app"
               onClick={() => setToggle("web app")}
             >
-              WEB APP'S
+              Projects
             </ToggleButton>
           ) : (
             <ToggleButton value="web app" onClick={() => setToggle("web app")}>
-              WEB APP'S
+              Projects
             </ToggleButton>
-          )}
-          <Divider />
-          {toggle === "robotics" ? (
-            <ToggleButton
-              active
-              value="robotics"
-              onClick={() => setToggle("robotics")}
-            >
-              Robotics
-            </ToggleButton>
-          ) : (
-            <ToggleButton value="robotics" onClick={() => setToggle("robotics")}>
-              Robotics
-            </ToggleButton>
-          )}
-          <Divider />
+          )}          
          
         </ToggleButtonGroup>
         <CardContainer>
