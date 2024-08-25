@@ -6,7 +6,7 @@ export const Bio = {
     "Pixel Perfectionest Designer"
   ],
   description:
-    "Pursuing rich Tech in Computer Science and Engineering, I'm on an odyssey of continuous learning. I'm sculpting a multidimensional skill set, weaving my experiences into innovation and growth.",
+    "Pursuing 10 years of experience Tech in Computer Science and Engineering, I'm on an odyssey of continuous learning. I'm sculpting a multidimensional skill set, weaving my experiences into innovation and growth.",
   github: "https://github.com/infiniteMine",
   linkedin: "https://www.linkedin.com/in/infinite-23053724a/",
   twitter: "https://twitter.com/_infinite",
@@ -90,9 +90,24 @@ export const skills = [
           "https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png",
       },
       {
-        name: "Python",
+        name: "Nest JS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+          "https://upload.wikimedia.org/wikipedia/commons/1/12/The_Nest_2023.svg",
+      },
+      {
+        name: "Laravel",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
+      },
+      {
+        name: "Java Spring",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png"
+      },
+      {
+        name: "Spring Boot",
+        image:
+          "https://img.icons8.com/office30/200/spring-logo.png"
       },
       {
         name: "Django",
@@ -100,14 +115,9 @@ export const skills = [
           "https://iconape.com/wp-content/png_logo_vector/django.png",
       },
       {
-        name: "MySQL",
+        name: "Fast API",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-      },
-      {
-        name: "MongoDB",
-        image:
-          "https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png",
+          "https://cdn.worldvectorlogo.com/logos/fastapi.svg"
       },
       
     ],
@@ -116,14 +126,29 @@ export const skills = [
     title: "Language",
     skills: [
       {
-        name: "C++",
-        image:
-          "https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png",
-      },
-      {
         name: "C",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png",
+      },
+      {
+        name: "C++",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
+      },
+      {
+          name: "PHP",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png"
+      },
+      {
+        name: "JavaScript",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      },
+      {
+        name: "Java",
+        image:
+          "https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
       },
       {
         name: "Python",
@@ -131,15 +156,40 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
       {
-        name: "JavaScript",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
-      },
-      
-      {
         name: "R",
         image:
-          "data:image/png;base64,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",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png",
+      },
+      
+    ],
+  },
+  {
+    title: "DataBase",
+    skills: [
+      {
+        name: "MySQL",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      },
+      {
+        name: "Postgre SQL",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png",
+      },
+      {
+        name: "Oracle",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/2560px-Oracle_Corporation_logo.svg.png",
+      },
+      {
+        name: "MongoDB",
+        image:
+          "https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png",
+      },
+      {
+        name: "Redis",
+        image:
+          "https://www.svgrepo.com/show/303460/redis-logo.svg",
       },
       
     ],
@@ -160,7 +210,7 @@ export const skills = [
       {
         name: "TensorFlow",
         image:
-          "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
+          "https://user-images.githubusercontent.com/40668801/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png",
       },
       {
         name: "Scikit Learn",
@@ -175,7 +225,7 @@ export const skills = [
       {
         name: "Anaconda",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PFIMuL6NzcKxI1PKaOIkX9UPtz9_cCysXe3Z73bY1Q&s",
+          "https://img.icons8.com/fluent/600w/000000/anaconda--v2.png",
       },
       
     ],
@@ -191,7 +241,7 @@ export const skills = [
       {
         name: "GitHub",
         image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          "https://www.svgrepo.com/show/312259/github.svg",
       },
       {
         name: "Docker",
@@ -206,7 +256,7 @@ export const skills = [
       {
         name: "Canva",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_-vZPAg61UMIpxhfNMOLxDZNTcRxTOy4lkGUuASoDA&s",
+          "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
       },
       
       {
@@ -218,6 +268,11 @@ export const skills = [
         name: "AWS",
         image:
           "https://www.datamation.com/wp-content/uploads/2021/07/AWS-logo.png",
+      },
+      {
+        name: "Azure",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png",
       },
     ],
   },
@@ -293,9 +348,6 @@ export const skills = [
 
 
 export const projects = [
-  
-
-  
   {
     id: 1,
     title: "VAIP",
@@ -312,7 +364,7 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Buisness Website",
+    title: "BUSINESS WEBSITE",
     date: "Jun 2023",
     description:
       "All of your Business starts Here",
@@ -326,7 +378,7 @@ export const projects = [
   },
   {
     id: 7,
-    title: "Naturist",
+    title: "NATURIST",
     date: "Jan 2023",
     description:
       "Naturist locations all over the world in one app",
@@ -340,7 +392,7 @@ export const projects = [
   },
   {
     id: 7,
-    title: "Best Boxing Fitness Studio",
+    title: "BEST BOXING FITNESS STUDIO",
     date: "April 2022",
     description:
       "Best Boxing Fitness Studio Where every workout is a win",
@@ -351,8 +403,7 @@ export const projects = [
     ],
     category: "web app",
     webapp: "https://mayweather.fit/",
-  },
-  
+  }, 
   {
     id: 1,
     title: "WEDDING BAND HIRE RED SODA",
@@ -368,7 +419,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "carparts",
+    title: "CARPARTS",
     date: "Oct 2019",
     description:
       "Be the first to receive exclusive promotions, updates and product announcements.",
@@ -379,8 +430,6 @@ export const projects = [
     category: "web app",
     webapp: "https://www.carparts.com/",
   },
-  
-  
 ];
 
 export const TimeLineData = [
